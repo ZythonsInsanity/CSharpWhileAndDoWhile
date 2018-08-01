@@ -1,0 +1,6 @@
+c:\users\kay\Desktop\booldowhileLoop\booldowhileLoop\bin\Debug\booldowhileLoop.exe.config
+c:\users\kay\Desktop\booldowhileLoop\booldowhileLoop\bin\Debug\booldowhileLoop.exe
+c:\users\kay\Desktop\booldowhileLoop\booldowhileLoop\bin\Debug\booldowhileLoop.pdb
+c:\users\kay\Desktop\booldowhileLoop\booldowhileLoop\obj\Debug\booldowhileLoop.csproj.CoreCompileInputs.cache
+c:\users\kay\Desktop\booldowhileLoop\booldowhileLoop\obj\Debug\booldowhileLoop.exe
+c:\users\kay\Desktop\booldowhileLoop\booldowhileLoop\obj\Debug\booldowhileLoop.pdb

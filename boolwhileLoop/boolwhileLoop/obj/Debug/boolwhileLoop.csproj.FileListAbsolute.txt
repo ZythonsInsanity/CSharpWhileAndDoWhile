@@ -1,0 +1,7 @@
+c:\users\kay\Desktop\boolwhileLoop\boolwhileLoop\bin\Debug\boolwhileLoop.exe.config
+c:\users\kay\Desktop\boolwhileLoop\boolwhileLoop\bin\Debug\boolwhileLoop.exe
+c:\users\kay\Desktop\boolwhileLoop\boolwhileLoop\bin\Debug\boolwhileLoop.pdb
+c:\users\kay\Desktop\boolwhileLoop\boolwhileLoop\obj\Debug\boolwhileLoop.csprojAssemblyReference.cache
+c:\users\kay\Desktop\boolwhileLoop\boolwhileLoop\obj\Debug\boolwhileLoop.csproj.CoreCompileInputs.cache
+c:\users\kay\Desktop\boolwhileLoop\boolwhileLoop\obj\Debug\boolwhileLoop.exe
+c:\users\kay\Desktop\boolwhileLoop\boolwhileLoop\obj\Debug\boolwhileLoop.pdb
